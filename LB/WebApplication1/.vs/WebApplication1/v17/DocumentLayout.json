@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\MS2\\LB\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\database\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\database\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\repository\\bookcategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\bookcategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\repository\\books\\ibooksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\books\\ibooksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\repository\\books\\booksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\books\\booksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\database\\bookcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\database\\bookcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\repository\\imembersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\imembersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\repository\\membersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\membersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\dto\\members\\memberresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\members\\memberresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|x:\\ms2\\lb\\webapplication1\\webapplication1\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBBE9B7-83A9-4CD3-B39E-B02995ECBAEC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksRepo.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\Books\\BooksRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Books\\BooksRepo.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\Books\\BooksRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Books\\BooksRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:10:41.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookCategories.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Database\\BookCategories.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Database\\BookCategories.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Database\\BookCategories.cs",
+              "RelativeToolTip": "WebApplication1\\Database\\BookCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:09:59.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBooksRepo.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\Books\\IBooksRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\Books\\IBooksRepo.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\Books\\IBooksRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\Books\\IBooksRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:01:21.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCategoryRepo.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\BookCategoryRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\BookCategoryRepo.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\BookCategoryRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\BookCategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:10:57.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Databaseinitializer.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Data\\Databaseinitializer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Databaseinitializer.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Data\\Databaseinitializer.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Databaseinitializer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:50:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Database\\Books.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Database\\Books.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Database\\Books.cs",
+              "RelativeToolTip": "WebApplication1\\Database\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:10:04.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:53:18.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T05:11:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BookController.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BookController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvzMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:07:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MembersRepo.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\MembersRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\MembersRepo.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\MembersRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\MembersRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwGUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:59:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberResponse.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\DTO\\Members\\MemberResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Members\\MemberResponse.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\DTO\\Members\\MemberResponse.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Members\\MemberResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:55:29.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MembersController.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MembersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:36:48.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookCategoriesController.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\BookCategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BookCategoriesController.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Controllers\\BookCategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BookCategoriesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:18:35.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMembersRepo.cs",
+              "DocumentMoniker": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\IMembersRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IMembersRepo.cs",
+              "ToolTip": "X:\\MS2\\LB\\WebApplication1\\WebApplication1\\Repository\\IMembersRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IMembersRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:28:31.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
